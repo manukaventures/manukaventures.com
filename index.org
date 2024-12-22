@@ -1,4 +1,5 @@
 #+title: Manuka Ventures
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="style.css" />
 
+Writings about investment without too much headwind.
 
