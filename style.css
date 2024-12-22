@@ -1,0 +1,27 @@
+:root {
+  --header-height: 15vh;
+}
+
+.header {
+  display: flex;
+  max-height: var(--header-height);
+  align-items: flex-start;
+  justify-content: center; 
+}
+
+.header img {
+  height: auto;
+  width: auto;
+  flex-shrink: 0;
+  max-width: 100%;
+  max-height: var(--header-height);
+}
+
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+}
